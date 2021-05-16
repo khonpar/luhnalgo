@@ -1,0 +1,3 @@
+com/creditcard/luhn/impl/LuhnAlgorithmTest.class
+com/creditcard/luhn/impl/UserInputValidatorImplTest.class
+com/creditcard/luhn/impl/CreditCardNumberValidatorTest.class
